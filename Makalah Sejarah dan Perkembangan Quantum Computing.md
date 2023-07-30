@@ -1,6 +1,6 @@
 
 
-#Pendahuluan
+**Pendahuluan**
 
 Komputasi Kuantum adalah bidang penelitian yang berfokus pada teknologi komputer yang sedang berkembang berdasarkan prinsip-prinsip teori kuantum. Dalam bidang ini, dipelajari sifat dan perilaku energi serta materi pada tingkat kuantum, yaitu tingkat atom dan subatom. Namun, apa bedanya dengan Quantum Computing? Berikut adalah perbedaan mendasar antara keduanya:
 
@@ -12,7 +12,7 @@ Mekanika Kuantum, di sisi lain, adalah cabang dasar fisika yang menggantikan mek
 
 Dengan memahami perbedaan antara Quantum Computing dan Quantum Computation, kita dapat lebih mengapresiasi potensi revolusioner yang dimiliki oleh komputasi kuantum dalam menghadapi tantangan teknologi masa depan. Teknologi ini membuka peluang baru bagi penelitian dan inovasi, dan dengan penerapan yang tepat, dapat menghasilkan kemajuan yang tak terduga dalam dunia komputasi.
 
-#Sejarah Quantum
+**Sejarah Quantum**
 1. Awal Pengembangan Teori Kuantum (1900-an):
 Komputasi kuantum berakar dari perkembangan teori mekanika kuantum pada awal abad ke-20 oleh para fisikawan seperti Max Planck, Albert Einstein, Niels Bohr, dan lainnya. Teori ini membawa konsep bahwa partikel sub-atom seperti elektron atau foton dapat berada dalam keadaan superposisi, artinya mereka dapat ada dalam beberapa keadaan secara bersamaan.
 
@@ -46,14 +46,14 @@ Sejak awal 2000-an, perusahaan dan lembaga penelitian mulai mengembangkan komput
 11. Keberhasilan Quantum Supremacy (2019):
 Pada tahun 2019, Google mengumumkan bahwa mereka telah mencapai "Quantum Supremacy" dengan komputer kuantum Sycamore mereka. Mereka melaksanakan tugas yang dianggap mustahil untuk diselesaikan oleh komputer klasik dalam waktu yang wajar.
 
-#Pengoprasian Qubit
+**Pengoprasian Qubit**
 Dalam bab ini, kita akan mengupas secara mendalam mengenai Pengoperasian Data Qubit. Sebelumnya, telah kita pahami mengenai konsep dasar Qubit atau Binary Digit dalam bagian "Pendahuluan" di atas. Sekarang, mari kita bahas cara mengoperasikan data menggunakan Qubit. Qubit merupakan unit kuantum yang terdiri dari digit biner atau bit, seperti yang ada dalam komputasi klasik. Dalam komputer kuantum, sejumlah partikel elementer seperti elektron atau foton dapat dimanfaatkan, diwakili oleh biaya atau polarisasi yang bertindak sebagai representasi dari 0 dan 1. Partikel-partikel inilah yang disebut sebagai Qubit, dan sifat serta perilaku mereka membentuk dasar dari komputasi kuantum. Dua aspek penting dalam fisika kuantum adalah prinsip superposisi dan entanglement.
 
 Sebagai contoh penerapan Qubit dalam komputer kuantum, kita dapat menggunakan partikel dengan dua keadaan putaran, yaitu "Down" dan "Up". Namun, dalam kenyataannya, sistem yang diamati melibatkan berbagai kemungkinan dan berubah seiring berjalannya waktu. Jika sebuah sistem A memiliki setidaknya dua keadaan diskrit dan berada dalam ruang berurutan yang mencukupi, maka Qubit menjadi kandidat yang tepat untuk menerapkan konsepsi ini. Setiap sistem ini dapat dipetakan ke dalam proses yang efektif pada sistem spin -1/2.
 
 Pengoperasian Data Qubit menjanjikan potensi luar biasa dalam menghadirkan kemajuan pesat di dunia komputasi. Dengan pemanfaatan prinsip-prinsip fisika kuantum seperti superposisi dan entanglement, komputer kuantum dapat mengolah dan memanipulasi data dengan cara yang jauh lebih kompleks daripada komputasi klasik. Hal ini membuka peluang baru dalam riset dan teknologi, serta menghadirkan tantangan menarik dalam menjelajahi kemungkinan yang belum pernah terpikirkan sebelumnya. Semoga kehadiran komputasi kuantum ini dapat mengantarkan era baru yang menakjubkan dalam dunia teknologi dan ilmu pengetahuan.
 
-#Algoritma Computing
+**Algoritma Computing**
 Dalam perjalanan mereka menggali rahasia dunia sistem kuantum, para ilmuwan telah menemukan dua algoritma revolusioner yang mengguncangkan dunia komputasi kuantum. Kedua algoritma ini adalah Algoritma Shor dan Algoritma Grover, masing-masing menawarkan potensi luar biasa dalam menghadapi tantangan pemecahan kode dan pencarian data.
 
 1. Algoritma Shor
@@ -74,7 +74,7 @@ Algoritma Grover juga menemukan aplikasinya dalam perhitungan rata-rata dan penc
 
 Dengan karakteristik uniknya, Algoritma Grover telah menjadi pilihan utama dalam pengembangan komputasi kuantum dan diharapkan dapat memberikan kontribusi yang signifikan dalam memecahkan berbagai masalah yang sulit dan memerlukan pencarian efisien. Dengan pemahaman yang lebih mendalam tentang potensi algoritma ini, kita dapat menerapkan penulisan kode yang lebih baik dan mengoptimalkan penggunaan komputasi kuantum dalam berbagai bidang.
 
-#Implementasi Quantum
+**Implementasi Quantum**
 Saat ini, para ilmuwan di Pusat Penelitian Almaden telah mencapai pencapaian penting dalam ranah komputasi kuantum. Mereka berhasil menjalankan kalkulasi komputer kuantum yang sangat rumit dengan menggunakan sebuah komputer kuantum 7-Qubit yang terdiri dari seribu triliun molekul khusus yang diatur dalam sebuah tabung. Komputer ini mampu memecahkan versi sederhana dari perhitungan matematika yang merupakan dasar dari banyak sistem kriptografi untuk keamanan data. Keberhasilan ini menjadi bukti kuat bahwa suatu hari nanti, komputer kuantum akan mampu menyelesaikan masalah yang sangat kompleks yang sebelumnya dianggap tidak mungkin dapat dipecahkan oleh bahkan superkomputer tercepat, bahkan dalam jutaan tahun sekalipun.
 
 Dalam edisi jurnal ilmiah Nature yang terbit belum lama ini, sebuah tim mahasiswa tingkat graduate dari Universitas Stanford melaporkan demonstrasi pertama dari "Algoritma Shor," sebuah metode yang dikembangkan oleh ilmuwan AT&T Peter Shor pada tahun 1994. Metode ini memanfaatkan komputer kuantum futuristik untuk menemukan faktor-faktor dari sebuah bilangan. Proses pemfaktoran bilangan, yaitu mencari bilangan-bilangan yang jika dikalikan akan menghasilkan bilangan asli tersebut, merupakan tantangan yang sangat sulit bagi komputer konvensional, namun sangat mudah untuk diverifikasi. Oleh karena itu, pemfaktoran bilangan besar ini banyak digunakan dalam metode kriptografi untuk melindungi data.
@@ -93,7 +93,7 @@ Quantum Computer merupakan alat hitung yang memanfaatkan fenomena mekanika kuant
 
 Quantum Computer memiliki kemampuan untuk memproses data jauh lebih cepat daripada komputer konvensional. Secara mendasar, quantum computer dapat melakukan komputasi secara paralel, sehingga dapat mencapai kecepatan yang lebih tinggi dalam pemrosesan data.
 
-#Quantum Dalam Cryptography
+**Quantum Dalam Cryptography**
 Cryptography berasal dari bahasa Yunani, yaitu Crypto dan Graphia, yang berarti penulisan rahasia. Dengan demikian, Cryptography merupakan ilmu yang mempelajari penulisan pesan secara rahasia.
 
 Quantum Cryptography
@@ -115,7 +115,7 @@ Dalam penjelasan akhirnya, Makarov menyatakan bahwa kelompok hacker mereka pada 
 
 Berikut ini adalah contoh gambar Quantum Cryptography: [[https://github.com/FAUZEIN/pwajson/blob/blog/qua.jpg?raw=true]]
 
-#Manfaat Lain Quantum Computing
+**Manfaat Lain Quantum Computing**
 Quantum computing adalah terobosan teknologi yang menjanjikan berbagai manfaat dan kemajuan di berbagai bidang. Inilah beberapa hal menarik dari quantum computing yang patut diperhatikan.
 
 1.Kecepatan Luar Biasa dalam Perhitungan
@@ -135,7 +135,7 @@ Quantum computing juga memberikan tantangan dan peluang baru dalam bidang kripto
 
 Dengan segala potensinya, quantum computing membuka babak baru bagi peradaban manusia. Masa depan yang cerah menanti di mana kecepatan, akurasi, dan keamanan akan meningkat dengan luar biasa. Dengan tekad kita untuk terus menjelajahi dan memahami dunia quantum, masa depan cerah itu akan segera menjadi kenyataan yang membentuk wajah dunia yang lebih unik dan revolusioner.
 
-#Perusahaan Yang Telah Menggunakan Quantum Computing
+**Perusahaan Yang Telah Menggunakan Quantum Computing**
 
 1. Microsoft Azure
    Microsoft Azure menyediakan layanan Quantum Computing melalui Azure Quantum. Mereka bermitra dengan perusahaan Quantum Computing seperti IonQ dan Honeywell Quantum Solutions untuk menyediakan akses ke berbagai jenis prosesor quantum dan perangkat lunak Quantum Computing.
@@ -158,7 +158,7 @@ Dengan segala potensinya, quantum computing membuka babak baru bagi peradaban ma
 7. Alibaba Cloud
    Alibaba Cloud, anak perusahaan komputasi awan dari Alibaba Group, juga telah mencoba peruntungan dalam Quantum Computing. Mereka telah melakukan riset dan menawarkan akses ke prosesor quantum mereka melalui platform cloud mereka.
 
-#Daftar Pustaka
+**Daftar Pustaka**
 [[https://id.wikipedia.org/wiki/Komputer_kuantum]]
 [[https://dislack.wordpress.com/quantum-computing/]]
 [[http://www.fisikaunri.org/node/24]]
