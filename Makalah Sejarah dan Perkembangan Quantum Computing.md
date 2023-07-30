@@ -118,16 +118,16 @@ Berikut ini adalah contoh gambar Quantum Cryptography: [[https://github.com/FAUZ
 **Manfaat Lain Quantum Computing**
 Quantum computing adalah terobosan teknologi yang menjanjikan berbagai manfaat dan kemajuan di berbagai bidang. Inilah beberapa hal menarik dari quantum computing yang patut diperhatikan.
 
-1.Kecepatan Luar Biasa dalam Perhitungan
+1. Kecepatan Luar Biasa dalam Perhitungan
 Quantum computing memiliki potensi luar biasa untuk menyelesaikan masalah yang kompleks dengan kecepatan yang jauh melampaui komputer klasik. Ini menjadi sangat berarti di bidang pengoptimalan, kriptografi, dan simulasi. Sebagai contoh, algoritma Shor yang berbasis quantum dapat memfaktorkan bilangan besar dengan efisiensi tinggi, yang mengancam keamanan algoritma enkripsi yang banyak digunakan saat ini.
 
-2.Era Baru Analisis Data dan Machine Learning
+2. Era Baru Analisis Data dan Machine Learning
 Dengan kekuatan quantum computing, analisis data dan machine learning mencapai dimensi yang tak terbatas. Kemampuannya untuk mengatasi kumpulan data besar dan meningkatkan pengenalan pola membawa prediksi dan wawasan yang sangat akurat. Potensi ini akan mendukung kemajuan signifikan di berbagai bidang, termasuk keuangan, perawatan kesehatan, dan kecerdasan buatan.
 
-3.Optimasi Tanpa Batas
+3. Optimasi Tanpa Batas
 Algoritma komputasi kuantum mampu secara efektif mengatasi permasalahan optimasi yang rumit. Tugas-tugas seperti mencari jalur terpendek antara banyak titik atau mengoptimalkan alokasi sumber daya dalam sistem kompleks dapat diselesaikan lebih optimal dan lebih cepat. Dengan begitu, bidang seperti manajemen rantai pasokan, logistik, dan penjadwalan akan mengalami revolusi baru.
 
-4.Simulasi dan Pemodelan Super Akurat
+4. Simulasi dan Pemodelan Super Akurat
 Kemampuan quantum computing dalam mensimulasikan dan memodelkan sistem kompleks jauh lebih akurat. Potensi ini menjadi sangat berharga untuk mensimulasikan reaksi kimia, ilmu material, pemodelan iklim, dan penemuan obat. Dengan simulasi kuantum, wawasan tentang fenomena kuantum semakin mendalam, dan ini membuka jalan bagi desain bahan dan obat yang lebih inovatif.
 
 5. Kriptografi dan Keamanan yang Tak Tertandingi
