@@ -124,6 +124,7 @@ Dalam penjelasan akhirnya, Makarov menyatakan bahwa kelompok hacker mereka pada 
 Berikut ini adalah contoh gambar Quantum Cryptography: [[https://github.com/FAUZEIN/pwajson/blob/blog/qua.jpg?raw=true]]
 
 **Manfaat Lain Quantum Computing**
+
 Quantum computing adalah terobosan teknologi yang menjanjikan berbagai manfaat dan kemajuan di berbagai bidang. Inilah beberapa hal menarik dari quantum computing yang patut diperhatikan.
 
 1. Kecepatan Luar Biasa dalam Perhitungan
