@@ -14,37 +14,41 @@ Dengan memahami perbedaan antara Quantum Computing dan Quantum Computation, kita
 
 **Sejarah Quantum**
 1. Awal Pengembangan Teori Kuantum (1900-an):
-Komputasi kuantum berakar dari perkembangan teori mekanika kuantum pada awal abad ke-20 oleh para fisikawan seperti Max Planck, Albert Einstein, Niels Bohr, dan lainnya. Teori ini membawa konsep bahwa partikel sub-atom seperti elektron atau foton dapat berada dalam keadaan superposisi, artinya mereka dapat ada dalam beberapa keadaan secara bersamaan.
+   Komputasi kuantum berakar dari perkembangan teori mekanika kuantum pada awal abad ke-20 oleh para fisikawan seperti Max Planck, Albert Einstein, Niels Bohr, dan lainnya. Teori ini membawa konsep bahwa partikel sub-atom seperti elektron atau foton
+   dapat berada dalam keadaan superposisi, artinya mereka dapat ada dalam beberapa keadaan secara bersamaan.
 
 2. Teori Mesin Turing (1936):
-Alan Turing, seorang matematikawan Inggris, mengembangkan konsep teori mesin Turing, yang mendefinisikan dasar teoretis bagi komputasi klasik. Mesin Turing menjadi dasar untuk semua komputer modern.
+   Alan Turing, seorang matematikawan Inggris, mengembangkan konsep teori mesin Turing, yang mendefinisikan dasar teoretis bagi komputasi klasik. Mesin Turing menjadi dasar untuk semua komputer modern.
 
 3. Hipotesis Church-Turing (1936-1937):
-Alonzo Church dan Alan Turing secara independen mengembangkan hipotesis yang menyatakan bahwa mesin Turing dapat menghitung semua yang dapat dihitung oleh algoritme matematika, mengartikan batasan komputasi klasik.
+   Alonzo Church dan Alan Turing secara independen mengembangkan hipotesis yang menyatakan bahwa mesin Turing dapat menghitung semua yang dapat dihitung oleh algoritme matematika, mengartikan batasan komputasi klasik.
 
 4. Kemajuan dalam Teori Kuantum (1920-1930-an):
-Pada tahun 1920-1930, sejumlah ilmuwan mengembangkan teori kuantum lebih lanjut, termasuk persamaan Schrödinger yang memberikan deskripsi matematis terhadap partikel sub-atom.
+   Pada tahun 1920-1930, sejumlah ilmuwan mengembangkan teori kuantum lebih lanjut, termasuk persamaan Schrödinger yang memberikan deskripsi matematis terhadap partikel sub-atom.
 
 5. Penemuan Transistor (1947):
-John Bardeen, Walter Brattain, dan William Shockley menemukan transistor di Laboratorium Bell, yang membuka jalan bagi revolusi komputer dengan menggantikan tabung hampa yang besar dan kaku dalam perangkat elektronik.
+   John Bardeen, Walter Brattain, dan William Shockley menemukan transistor di Laboratorium Bell, yang membuka jalan bagi revolusi komputer dengan menggantikan tabung hampa yang besar dan kaku dalam perangkat elektronik.
 
 6. Penemuan Prinsip Superposisi (1950-an):
-Ilmuwan seperti Hugh Everett dan David Deutsch mengembangkan konsep superposisi kuantum, di mana suatu partikel dapat eksis dalam banyak keadaan secara bersamaan. Ide ini menjadi dasar dari komputasi kuantum.
+   Ilmuwan seperti Hugh Everett dan David Deutsch mengembangkan konsep superposisi kuantum, di mana suatu partikel dapat eksis dalam banyak keadaan secara bersamaan. Ide ini menjadi dasar dari komputasi kuantum.
 
-7. Implementasi Quantum Bits (Qubits)
-Penggunaan qubit sebagai dasar unit informasi dalam komputasi kuantum menjadi penting. Pada akhir 1990-an, ilmuwan berhasil mengimplementasikan qubit dalam berbagai sistem fisik, termasuk partikel kuantum seperti ion terperangkap, foton, dan superkonduktor. Teknologi ini membuka jalan bagi perkembangan lebih lanjut dalam komputasi kuantum.
+8. Implementasi Quantum Bits (Qubits)
+   Penggunaan qubit sebagai dasar unit informasi dalam komputasi kuantum menjadi penting. Pada akhir 1990-an, ilmuwan berhasil mengimplementasikan qubit dalam berbagai sistem fisik, termasuk partikel kuantum seperti ion terperangkap, foton, dan
+   superkonduktor. Teknologi ini membuka jalan bagi perkembangan lebih lanjut dalam komputasi kuantum.
 
-8. Algoritma Shor dan Grover (1990-an):
-Pada tahun 1994, Peter Shor mengemukakan algoritma Shor, yang memanfaatkan komputasi kuantum untuk memecahkan masalah faktorisasi yang sulit dalam komputasi klasik. Sementara itu, algoritma Grover yang diajukan oleh Lov Grover pada tahun 1996 menawarkan percepatan dalam pencarian database.
+9. Algoritma Shor dan Grover (1990-an):
+   Pada tahun 1994, Peter Shor mengemukakan algoritma Shor, yang memanfaatkan komputasi kuantum untuk memecahkan masalah faktorisasi yang sulit dalam komputasi klasik. Sementara itu, algoritma Grover yang diajukan oleh Lov Grover pada tahun 1996
+   menawarkan percepatan dalam pencarian database.
 
-9. Teleportasi Kuantum dan Kriptografi Kuantum (1997):
-Pada tahun 1997, tim fisikawan di Austria berhasil melakukan teleportasi kuantum untuk pertama kalinya, mengirim informasi antara dua partikel terkait melalui kuantum entanglement. Pada saat yang sama, protokol kriptografi kuantum juga mulai dikembangkan untuk mengamankan komunikasi dengan prinsip-prinsip kuantum.
+10. Teleportasi Kuantum dan Kriptografi Kuantum (1997):
+   Pada tahun 1997, tim fisikawan di Austria berhasil melakukan teleportasi kuantum untuk pertama kalinya, mengirim informasi antara dua partikel terkait melalui kuantum entanglement. Pada saat yang sama, protokol kriptografi kuantum juga mulai
+   dikembangkan untuk mengamankan komunikasi dengan prinsip-prinsip kuantum.
 
-10. Pembangunan Quantum Computer (2000-an hingga saat ini):
-Sejak awal 2000-an, perusahaan dan lembaga penelitian mulai mengembangkan komputer kuantum nyata dengan berbagai teknologi seperti superkonduktor, ion terperangkap, dan komputer kuantum optik. Perkembangan ini terus berlanjut hingga saat ini.
+11. Pembangunan Quantum Computer (2000-an hingga saat ini):
+    Sejak awal 2000-an, perusahaan dan lembaga penelitian mulai mengembangkan komputer kuantum nyata dengan berbagai teknologi seperti superkonduktor, ion terperangkap, dan komputer kuantum optik. Perkembangan ini terus berlanjut hingga saat ini.
 
-11. Keberhasilan Quantum Supremacy (2019):
-Pada tahun 2019, Google mengumumkan bahwa mereka telah mencapai "Quantum Supremacy" dengan komputer kuantum Sycamore mereka. Mereka melaksanakan tugas yang dianggap mustahil untuk diselesaikan oleh komputer klasik dalam waktu yang wajar.
+12. Keberhasilan Quantum Supremacy (2019):
+    Pada tahun 2019, Google mengumumkan bahwa mereka telah mencapai "Quantum Supremacy" dengan komputer kuantum Sycamore mereka. Mereka melaksanakan tugas yang dianggap mustahil untuk diselesaikan oleh komputer klasik dalam waktu yang wajar.
 
 **Pengoprasian Qubit**
 Dalam bab ini, kita akan mengupas secara mendalam mengenai Pengoperasian Data Qubit. Sebelumnya, telah kita pahami mengenai konsep dasar Qubit atau Binary Digit dalam bagian "Pendahuluan" di atas. Sekarang, mari kita bahas cara mengoperasikan data menggunakan Qubit. Qubit merupakan unit kuantum yang terdiri dari digit biner atau bit, seperti yang ada dalam komputasi klasik. Dalam komputer kuantum, sejumlah partikel elementer seperti elektron atau foton dapat dimanfaatkan, diwakili oleh biaya atau polarisasi yang bertindak sebagai representasi dari 0 dan 1. Partikel-partikel inilah yang disebut sebagai Qubit, dan sifat serta perilaku mereka membentuk dasar dari komputasi kuantum. Dua aspek penting dalam fisika kuantum adalah prinsip superposisi dan entanglement.
@@ -57,22 +61,26 @@ Pengoperasian Data Qubit menjanjikan potensi luar biasa dalam menghadirkan kemaj
 Dalam perjalanan mereka menggali rahasia dunia sistem kuantum, para ilmuwan telah menemukan dua algoritma revolusioner yang mengguncangkan dunia komputasi kuantum. Kedua algoritma ini adalah Algoritma Shor dan Algoritma Grover, masing-masing menawarkan potensi luar biasa dalam menghadapi tantangan pemecahan kode dan pencarian data.
 
 1. Algoritma Shor
-Dalam teori ini, misteri tersembunyi dari kode rahasia yang populer untuk mengamankan pengiriman data, dikenal sebagai kode RSA, dapat dipecahkan dengan mahir oleh komputer kuantum. Algoritma Shor lahir dari pikiran jenius Peter Shor pada tahun 1995, dan sejak itu dunia kriptografi tak pernah sama lagi.
+   Dalam teori ini, misteri tersembunyi dari kode rahasia yang populer untuk mengamankan pengiriman data, dikenal sebagai kode RSA, dapat dipecahkan dengan mahir oleh komputer kuantum. Algoritma Shor lahir dari pikiran jenius Peter Shor pada tahun
+   1995, dan sejak itu dunia kriptografi tak pernah sama lagi.
+   Dengan keajaiban Algoritma Shor, data yang dienkripsi melalui kode RSA menjadi kokoh dan aman dari mata-mata yang tak diinginkan. Kode RSA telah menjadi penjaga terpercaya dalam melindungi komunikasi dan transaksi digital. Namun, berkat penemuan
+   Peter Shor, tampaknya masa kejayaan kode RSA akan terus tertantang.
 
-Dengan keajaiban Algoritma Shor, data yang dienkripsi melalui kode RSA menjadi kokoh dan aman dari mata-mata yang tak diinginkan. Kode RSA telah menjadi penjaga terpercaya dalam melindungi komunikasi dan transaksi digital. Namun, berkat penemuan Peter Shor, tampaknya masa kejayaan kode RSA akan terus tertantang.
+   Tidak mudah menaklukkan Algoritma Shor ini. Pecahan kode RSA memerlukan daya komputasi yang sangat tinggi dari komputer kuantum yang bekerja bersama secara paralel. Bahkan waktu yang dibutuhkan untuk mencapai pemecahan ini juga tidak singkat.
+   Sebuah perjalanan yang penuh tantangan, namun penuh potensi bagi masa depan kriptografi.
 
-Tidak mudah menaklukkan Algoritma Shor ini. Pecahan kode RSA memerlukan daya komputasi yang sangat tinggi dari komputer kuantum yang bekerja bersama secara paralel. Bahkan waktu yang dibutuhkan untuk mencapai pemecahan ini juga tidak singkat. Sebuah perjalanan yang penuh tantangan, namun penuh potensi bagi masa depan kriptografi.
+   Dengan Algoritma Shor yang semakin diperkuat, komunitas ilmuwan dan ahli kriptografi terus merangkul teknologi kuantum sebagai alat kuat untuk mengeksplorasi rahasia yang telah lama tersembunyi. Sembari mencari harta karun kriptografi, dunia
+   menantikan saat-saat menakjubkan di mana Algoritma Shor akan membuka pintu bagi kemajuan teknologi yang tak terbayangkan sebelumnya.
 
-Dengan Algoritma Shor yang semakin diperkuat, komunitas ilmuwan dan ahli kriptografi terus merangkul teknologi kuantum sebagai alat kuat untuk mengeksplorasi rahasia yang telah lama tersembunyi. Sembari mencari harta karun kriptografi, dunia menantikan saat-saat menakjubkan di mana Algoritma Shor akan membuka pintu bagi kemajuan teknologi yang tak terbayangkan sebelumnya.
+3. Algoritma Grover
+   Algoritma Grover adalah salah satu algoritma kuantum yang menawarkan percepatan kuadrat dibandingkan dengan metode pencarian linear klasik pada list yang tidak terurut. Algoritma ini membuka peluang bahwa dengan memanfaatkan model pencarian
+   kuantum, proses pencarian dapat dilakukan lebih cepat daripada menggunakan model komputasi klasik. Dari beragam algoritma kuantum yang ada, Algoritma Grover menonjol karena kemampuannya memberikan jawaban yang benar dengan probabilitas yang tinggi.
 
-2. Algoritma Grover
-Algoritma Grover adalah salah satu algoritma kuantum yang menawarkan percepatan kuadrat dibandingkan dengan metode pencarian linear klasik pada list yang tidak terurut. Algoritma ini membuka peluang bahwa dengan memanfaatkan model pencarian kuantum, proses pencarian dapat dilakukan lebih cepat daripada menggunakan model komputasi klasik. Dari beragam algoritma kuantum yang ada, Algoritma Grover menonjol karena kemampuannya memberikan jawaban yang benar dengan probabilitas yang tinggi.
+   Selain itu, potensi kegagalan dalam algoritma ini dapat dikurangi dengan mengulangi proses algoritma. Hal ini menjadikan Algoritma Grover lebih andal dan efisien dalam menyelesaikan permasalahan pencarian yang kompleks. Algoritma Grover juga
+   menemukan aplikasinya dalam perhitungan rata-rata dan pencarian median dari sejumlah angka, sehingga dapat diaplikasikan untuk memecahkan masalah kolisi.
 
-Selain itu, potensi kegagalan dalam algoritma ini dapat dikurangi dengan mengulangi proses algoritma. Hal ini menjadikan Algoritma Grover lebih andal dan efisien dalam menyelesaikan permasalahan pencarian yang kompleks.
-
-Algoritma Grover juga menemukan aplikasinya dalam perhitungan rata-rata dan pencarian median dari sejumlah angka, sehingga dapat diaplikasikan untuk memecahkan masalah kolisi.
-
-Dengan karakteristik uniknya, Algoritma Grover telah menjadi pilihan utama dalam pengembangan komputasi kuantum dan diharapkan dapat memberikan kontribusi yang signifikan dalam memecahkan berbagai masalah yang sulit dan memerlukan pencarian efisien. Dengan pemahaman yang lebih mendalam tentang potensi algoritma ini, kita dapat menerapkan penulisan kode yang lebih baik dan mengoptimalkan penggunaan komputasi kuantum dalam berbagai bidang.
+   Dengan karakteristik uniknya, Algoritma Grover telah menjadi pilihan utama dalam pengembangan komputasi kuantum dan diharapkan dapat memberikan kontribusi yang signifikan dalam memecahkan berbagai masalah yang sulit dan memerlukan pencarian
+   efisien. Dengan pemahaman yang lebih mendalam tentang potensi algoritma ini, kita dapat menerapkan penulisan kode yang lebih baik dan mengoptimalkan penggunaan komputasi kuantum dalam berbagai bidang.
 
 **Implementasi Quantum**
 Saat ini, para ilmuwan di Pusat Penelitian Almaden telah mencapai pencapaian penting dalam ranah komputasi kuantum. Mereka berhasil menjalankan kalkulasi komputer kuantum yang sangat rumit dengan menggunakan sebuah komputer kuantum 7-Qubit yang terdiri dari seribu triliun molekul khusus yang diatur dalam sebuah tabung. Komputer ini mampu memecahkan versi sederhana dari perhitungan matematika yang merupakan dasar dari banyak sistem kriptografi untuk keamanan data. Keberhasilan ini menjadi bukti kuat bahwa suatu hari nanti, komputer kuantum akan mampu menyelesaikan masalah yang sangat kompleks yang sebelumnya dianggap tidak mungkin dapat dipecahkan oleh bahkan superkomputer tercepat, bahkan dalam jutaan tahun sekalipun.
@@ -119,29 +127,36 @@ Berikut ini adalah contoh gambar Quantum Cryptography: [[https://github.com/FAUZ
 Quantum computing adalah terobosan teknologi yang menjanjikan berbagai manfaat dan kemajuan di berbagai bidang. Inilah beberapa hal menarik dari quantum computing yang patut diperhatikan.
 
 1. Kecepatan Luar Biasa dalam Perhitungan
-Quantum computing memiliki potensi luar biasa untuk menyelesaikan masalah yang kompleks dengan kecepatan yang jauh melampaui komputer klasik. Ini menjadi sangat berarti di bidang pengoptimalan, kriptografi, dan simulasi. Sebagai contoh, algoritma Shor yang berbasis quantum dapat memfaktorkan bilangan besar dengan efisiensi tinggi, yang mengancam keamanan algoritma enkripsi yang banyak digunakan saat ini.
+   Quantum computing memiliki potensi luar biasa untuk menyelesaikan masalah yang kompleks dengan kecepatan yang jauh melampaui komputer klasik. Ini menjadi sangat berarti di bidang pengoptimalan, kriptografi, dan simulasi. Sebagai contoh, algoritma
+   Shor yang berbasis quantum dapat memfaktorkan bilangan besar dengan efisiensi tinggi, yang mengancam keamanan algoritma enkripsi yang banyak digunakan saat ini.
 
-2. Era Baru Analisis Data dan Machine Learning
-Dengan kekuatan quantum computing, analisis data dan machine learning mencapai dimensi yang tak terbatas. Kemampuannya untuk mengatasi kumpulan data besar dan meningkatkan pengenalan pola membawa prediksi dan wawasan yang sangat akurat. Potensi ini akan mendukung kemajuan signifikan di berbagai bidang, termasuk keuangan, perawatan kesehatan, dan kecerdasan buatan.
+3. Era Baru Analisis Data dan Machine Learning
+   Dengan kekuatan quantum computing, analisis data dan machine learning mencapai dimensi yang tak terbatas. Kemampuannya untuk mengatasi kumpulan data besar dan meningkatkan pengenalan pola membawa prediksi dan wawasan yang sangat akurat. Potensi ini
+   akan mendukung kemajuan signifikan di berbagai bidang, termasuk keuangan, perawatan kesehatan, dan kecerdasan buatan.
 
-3. Optimasi Tanpa Batas
-Algoritma komputasi kuantum mampu secara efektif mengatasi permasalahan optimasi yang rumit. Tugas-tugas seperti mencari jalur terpendek antara banyak titik atau mengoptimalkan alokasi sumber daya dalam sistem kompleks dapat diselesaikan lebih optimal dan lebih cepat. Dengan begitu, bidang seperti manajemen rantai pasokan, logistik, dan penjadwalan akan mengalami revolusi baru.
+5. Optimasi Tanpa Batas
+   Algoritma komputasi kuantum mampu secara efektif mengatasi permasalahan optimasi yang rumit. Tugas-tugas seperti mencari jalur terpendek antara banyak titik atau mengoptimalkan alokasi sumber daya dalam sistem kompleks dapat diselesaikan lebih
+   optimal dan lebih cepat. Dengan begitu, bidang seperti manajemen rantai pasokan, logistik, dan penjadwalan akan mengalami revolusi baru.
 
-4. Simulasi dan Pemodelan Super Akurat
-Kemampuan quantum computing dalam mensimulasikan dan memodelkan sistem kompleks jauh lebih akurat. Potensi ini menjadi sangat berharga untuk mensimulasikan reaksi kimia, ilmu material, pemodelan iklim, dan penemuan obat. Dengan simulasi kuantum, wawasan tentang fenomena kuantum semakin mendalam, dan ini membuka jalan bagi desain bahan dan obat yang lebih inovatif.
+7. Simulasi dan Pemodelan Super Akurat
+   Kemampuan quantum computing dalam mensimulasikan dan memodelkan sistem kompleks jauh lebih akurat. Potensi ini menjadi sangat berharga untuk mensimulasikan reaksi kimia, ilmu material, pemodelan iklim, dan penemuan obat. Dengan simulasi kuantum,
+   wawasan tentang fenomena kuantum semakin mendalam, dan ini membuka jalan bagi desain bahan dan obat yang lebih inovatif.
 
-5. Kriptografi dan Keamanan yang Tak Tertandingi
-Quantum computing juga memberikan tantangan dan peluang baru dalam bidang kriptografi dan keamanan. Di satu sisi, komputer kuantum dapat membongkar algoritma enkripsi klasik, mendorong pengembangan teknik kriptografi baru yang tahan terhadap serangan kuantum. Di sisi lain, kriptografi kuantum menawarkan solusi inovatif seperti distribusi kunci kuantum, menggunakan prinsip mekanika kuantum untuk menciptakan kunci enkripsi yang tak tertandingi dalam keamanannya.
+9. Kriptografi dan Keamanan yang Tak Tertandingi
+   Quantum computing juga memberikan tantangan dan peluang baru dalam bidang kriptografi dan keamanan. Di satu sisi, komputer kuantum dapat membongkar algoritma enkripsi klasik, mendorong pengembangan teknik kriptografi baru yang tahan terhadap
+   serangan kuantum. Di sisi lain, kriptografi kuantum menawarkan solusi inovatif seperti distribusi kunci kuantum, menggunakan prinsip mekanika kuantum untuk menciptakan kunci enkripsi yang tak tertandingi dalam keamanannya.
 
 Dengan segala potensinya, quantum computing membuka babak baru bagi peradaban manusia. Masa depan yang cerah menanti di mana kecepatan, akurasi, dan keamanan akan meningkat dengan luar biasa. Dengan tekad kita untuk terus menjelajahi dan memahami dunia quantum, masa depan cerah itu akan segera menjadi kenyataan yang membentuk wajah dunia yang lebih unik dan revolusioner.
 
 **Perusahaan Yang Telah Menggunakan Quantum Computing**
 
 1. Microsoft Azure
-   Microsoft Azure menyediakan layanan Quantum Computing melalui Azure Quantum. Mereka bermitra dengan perusahaan Quantum Computing seperti IonQ dan Honeywell Quantum Solutions untuk menyediakan akses ke berbagai jenis prosesor quantum dan perangkat lunak Quantum Computing.
+   Microsoft Azure menyediakan layanan Quantum Computing melalui Azure Quantum. Mereka bermitra dengan perusahaan Quantum Computing seperti IonQ dan Honeywell Quantum Solutions untuk menyediakan akses ke berbagai jenis prosesor quantum dan perangkat
+   lunak Quantum Computing.
 
 3. IBM
-   IBM telah menjadi perintis dalam teknologi Quantum Computing dan menawarkan platform Quantum Computing mereka melalui IBM Quantum Experience. Mereka telah mengembangkan dan merilis beberapa prosesor quantum dengan jumlah qubit dan kemampuan yang semakin meningkat.
+   IBM telah menjadi perintis dalam teknologi Quantum Computing dan menawarkan platform Quantum Computing mereka melalui IBM Quantum Experience. Mereka telah mengembangkan dan merilis beberapa prosesor quantum dengan jumlah qubit dan kemampuan yang
+   semakin meningkat.
 
 3. Google
    Google telah membuat kemajuan signifikan dalam Quantum Computing melalui laboratorium Quantum AI mereka. Mereka mengembangkan prosesor Bristlecone dan Sycamore, dan pada tahun 2019, mereka mengklaim "keunggulan kuantum" untuk masalah tertentu.
